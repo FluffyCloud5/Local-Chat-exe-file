@@ -1,5 +1,5 @@
 # Vs-Local-Chat
-Current Version: Beta                                                                 
+Current Version: Beta 0                                                                 
 Chat on local network using Visual studio Console.                                                                    
 You only need to download the .exe file and open it.            
 Commands can be entered, they are:                                       
